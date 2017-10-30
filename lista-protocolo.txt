@@ -1,0 +1,15 @@
+
+HELP
+STATS [stat_value]
+RTIME [rtime_value]
+LTIME [ltime_value]
+SRUN [srun_value]
+ok TRUN [trun_value]
+ok GMON [gmon_value]
+GDOG [gdog_value]
+ok KSTET [kstet_value]
+ok GTER [gter_value]
+ok HTER [hter_value]
+ok LTER [lter_value]
+KSTAN [lstan_value]
+EXIT
